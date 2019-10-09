@@ -12,7 +12,7 @@ buttercms-python==0.7
 gunicorn==19.7.1
 Jinja2==2.9.4
 
-pep8==1.7.1
+pep8==1.7.0
 python-dateutil==2.6.0
 
 redis==2.10.5
